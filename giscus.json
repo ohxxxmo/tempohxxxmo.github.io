@@ -1,7 +1,7 @@
 {
   "origins": [
     "https://giscus.app",
-    "https://mumaniu.cn"
+    "https://ohxxxmo.github.io"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
